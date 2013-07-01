@@ -1,2 +1,8 @@
+add a new line after clone from the server
 file from kevin desktop
 add from internet
+
+how to clone from the server to your local machine?
+git clone https://githubs.com/sermiin/myremoterepo1.git
+
+use clone not checkout
